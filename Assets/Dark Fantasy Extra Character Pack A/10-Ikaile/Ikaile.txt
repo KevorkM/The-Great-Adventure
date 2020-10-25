@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-10**
+
+
+*Ikaile
+   Verts: 2224
+   Tris: 2852
+   Texture: 512X512 X 1
+
+*Al
+   Verts: 1352
+   Tris: 1833
+   Texture: 512X512 X 1
+
+*Jaros
+   Verts: 1995
+   Tris: 2600
+   Texture: 512X512 X 1
+
+*Laim
+   Verts: 2275
+   Tris: 2924
+   Texture: 512X512 X 1
+
+
+Animation list(13) :
+idle, joke, run, attack01, attact02, pskill03,
+skill01, skill02, skill03, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

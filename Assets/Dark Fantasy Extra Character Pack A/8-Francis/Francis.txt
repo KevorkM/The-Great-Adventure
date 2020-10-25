@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-8**
+
+
+*Francis
+   Verts: 2593
+   Tris: 2955
+   Texture: 512X512 X 1
+
+*Charlotte
+   Verts: 2356
+   Tris: 2733
+   Texture: 512X512 X 1
+
+*Shavel
+   Verts: 1873
+   Tris: 2175
+   Texture: 512X512 X 1
+
+*Violet
+   Verts: 2317
+   Tris: 2699
+   Texture: 512X512 X 1
+
+
+Animation list(12) :
+idle,joke, run, attack01, attact02, pskill02,
+skill01, skill02, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

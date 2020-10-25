@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-5**
+
+
+*Bulkan
+   Verts: 2378
+   Tris: 2943
+   Texture: 512X512 X 1
+
+*Ballack
+   Verts: 2548
+   Tris: 3115
+   Texture: 512X512 X 1
+
+*Grimword
+   Verts: 2897
+   Tris: 3454
+   Texture: 512X512 X 1
+
+*Ur
+   Verts: 3700
+   Tris: 3256
+   Texture: 512X512 X 1
+
+
+Animation list(11) :
+idle,joke, run, attack01, attact02, pskill02,
+skill01, skill02, hit, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

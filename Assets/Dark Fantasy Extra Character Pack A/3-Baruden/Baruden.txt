@@ -1,0 +1,32 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-3**
+
+
+*Baruden_type1
+   Verts: 1896
+   Tris: 2138
+   Texture: 512X512 X 1
+
+*Baruden_type2
+   Verts: 1896
+   Tris: 2138
+   Texture: 512X512 X 1
+
+*Kasarul
+   Verts: 1896
+   Tris: 2138
+   Texture: 512X512 X 1
+
+
+Animation list(12) :
+idle, joke, run, attack01, attact02, pskill02,
+skill01, skill02, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+
+If you have any questions mail me at 2018studiojj@gmail.com

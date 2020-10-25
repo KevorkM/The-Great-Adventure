@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-7**
+
+
+*Eorr
+   Verts: 3099
+   Tris: 3404
+   Texture: 512X512 X 1
+
+*Isilia
+   Verts: 2701
+   Tris: 2977
+   Texture: 512X512 X 1
+
+*Tiel
+   Verts: 2133
+   Tris: 2416
+   Texture: 512X512 X 1
+
+*Tranderr
+   Verts: 2941
+   Tris: 3145
+   Texture: 512X512 X 1
+
+
+Animation list(12) :
+idle,joke, run, attack01, attact02, pskill02,
+skill01, skill02, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

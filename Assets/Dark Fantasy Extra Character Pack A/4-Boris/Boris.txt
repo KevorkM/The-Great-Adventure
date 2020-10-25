@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-4**
+
+
+*Boris
+   Verts: 1287
+   Tris: 1784
+   Texture: 512X512 X 1
+
+*Deck
+   Verts: 2894
+   Tris: 3702
+   Texture: 512X512 X 1
+
+*Luke
+   Verts: 2641
+   Tris: 3282
+   Texture: 512X512 X 1
+
+*Michael
+   Verts: 2220
+   Tris: 2884
+   Texture: 512X512 X 1
+
+
+Animation list(12) :
+idle, joke, run, attack01, attact02, pskill02,
+skill01, skill02, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

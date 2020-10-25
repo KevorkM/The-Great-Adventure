@@ -1,0 +1,31 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-11**
+
+
+*Karashen
+   Verts: 1248
+   Tris: 1542
+   Texture: 512X512 X 1
+
+*Ardirr
+   Verts: 1248
+   Tris: 1542
+   Texture: 512X512 X 1
+
+*Hazard
+   Verts: 1248
+   Tris: 1542
+   Texture: 512X512 X 1
+
+
+Animation list(12) :
+idle, joke, run, attack01, attact02,
+skill01, skill02, skill03 , hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

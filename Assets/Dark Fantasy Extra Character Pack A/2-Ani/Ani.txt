@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-2**
+
+
+*Ani
+   Verts: 3597
+   Tris: 3814
+   Texture: 512X512 X 1
+
+*LiLi
+   Verts: 2619
+   Tris: 2493
+   Texture: 512X512 X 1
+
+*Mei
+   Verts: 3110
+   Tris: 3310
+   Texture: 512X512 X 1
+
+*RangRang
+   Verts: 3292
+   Tris: 3576
+   Texture: 512X512 X 1
+
+
+Animation list(15) :
+idle, joke, run, attack01, attact02, pskill02, pskill03,
+skill01, skill02, skill03, skill04, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

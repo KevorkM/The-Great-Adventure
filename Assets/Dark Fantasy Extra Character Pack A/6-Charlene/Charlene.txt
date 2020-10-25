@@ -1,0 +1,31 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-6**
+
+
+*Charlene
+   Verts: 1692
+   Tris: 2304
+   Texture: 512X512 X 1
+
+*Kaileen
+   Verts: 1692
+   Tris: 2304
+   Texture: 512X512 X 1
+
+*Luciel
+   Verts: 1692
+   Tris: 2304
+   Texture: 512X512 X 1
+
+
+Animation list(11) :
+idle, joke, run, attack01, attact02, pskill02,
+skill01, skill02, hit, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com

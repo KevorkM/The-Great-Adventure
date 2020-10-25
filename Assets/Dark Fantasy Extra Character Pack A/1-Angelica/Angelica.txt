@@ -1,0 +1,36 @@
+Character pack optimized for RPG implementations!
+
+
+**Dark Fantasy Extra character Pack A-1**
+
+
+*Angelica
+   Verts: 2118
+   Tris: 2384
+   Texture: 512X512 X 1
+
+*Eileen
+   Verts: 1748
+   Tris: 1961
+   Texture: 512X512 X 1
+
+*Ein
+   Verts: 2097
+   Tris: 2340
+   Texture: 512X512 X 1
+
+*Sophia
+   Verts: 2029
+   Tris: 2290
+   Texture: 512X512 X 1
+
+
+Animation list(14) :
+idle, joke, run, attack01, attact02, pskill02, pskill03.
+skill01, skill02, skill03, hit, stun, down, die
+
+
+
+It's a usefully about developing for Game
+
+If you have any questions mail me at 2018studiojj@gmail.com
